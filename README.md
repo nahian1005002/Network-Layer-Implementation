@@ -1,8 +1,8 @@
 # internet-protocol
 
-Implementation of functions at different layers of the network protocol stack as listed below
+Implementation of routing protocol and other features in different layer.
 
-1. Routing Layer: a routing protocol.
+1. Routing Layer: Distance vector routing protocol is implemented.
 
 2. Data-link Layer: Checksum calculation and verification
 
